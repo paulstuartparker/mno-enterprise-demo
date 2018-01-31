@@ -1,10 +1,15 @@
 source 'https://rubygems.org'
 
+git_source(:github) do |repo_name|
+  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
+  "https://github.com/#{repo_name}.git"
+end
+
 gem 'rails', '~> 4.2.6'
 
 # Maestrano Enterprise Engine
 # Bundle edge Mnoe instead:
-gem 'mno-enterprise', git: 'https://github.com/maestrano/mno-enterprise', branch: '3.3'
+gem 'mno-enterprise', github: "MAhsenArif/mno-enterprise", branch: "invitations-rework"
 
 # Use local mnoe
 # gem 'mno-enterprise', path: '../mno-enterprise'

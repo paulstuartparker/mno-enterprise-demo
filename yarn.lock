@@ -10,6 +10,6 @@
   version "1.1.3"
   resolved "git+https://git@github.com/maestrano/mno-enterprise-angular.git#b194700d9bbc83469a4c3aab2d7a406664b3708b"
 
-"mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#1.0":
+"mnoe-admin-panel@git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#invitations-rework":
   version "1.0.7"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#00edc614b50a68b1c34fca2d9aafb8341671d566"
+  resolved "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#ceda6def530a4b24c5507af63cf25993a22a50a4"

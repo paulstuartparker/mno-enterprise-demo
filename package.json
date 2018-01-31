@@ -4,7 +4,7 @@
   "dependencies": {
     "impac-angular": "git+https://git@github.com/maestrano/impac-angular.git#1.6.x",
     "mno-enterprise-angular": "git+https://git@github.com/maestrano/mno-enterprise-angular.git#1.1",
-    "mnoe-admin-panel": "git+https://git@github.com/maestrano/mnoe-admin-panel.git#1.0"
+    "mnoe-admin-panel": "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#invitations-rework"
   },
   "engines": {
     "node": ">= 6.9.0"
