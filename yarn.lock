@@ -12,4 +12,4 @@
 
 "mnoe-admin-panel@git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#invitations-rework":
   version "1.0.7"
-  resolved "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#ceda6def530a4b24c5507af63cf25993a22a50a4"
+  resolved "git+https://git@github.com/MAhsenArif/mnoe-admin-panel.git#dd8e53aca65b9f27897246a13ee99e690068e919"
