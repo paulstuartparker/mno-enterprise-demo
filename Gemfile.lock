@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/MAhsenArif/mno-enterprise.git
-  revision: b6fd40db97ce17dfb8a15882f76422b5f943579e
+  revision: 1e3bcb26f33f72f15800fcb972e0c42f1b086119
   branch: invitations-rework
   specs:
     mno-enterprise (3.3.2)
