@@ -2,14 +2,14 @@
 <html ng-app="frontendAdmin" ng-strict-di="true">
   <head>
     <meta charset="utf-8">
-    <title ng-bind="app_name + ' - ' + ('mnoe_admin_panel.dashboard.layout.title' | translate) + ' - ' + pageTitle"></title>
+    <title state-title="Admin Platform" pattern="{{::app_name}} - Admin Platform - %s"></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
     <link rel="stylesheet" href="styles/vendor-c91ee69d8e.css">
 
-    <link rel="stylesheet" href="styles/app-e1398d4143.css">
+    <link rel="stylesheet" href="styles/app-7f998c65ca.css">
   </head>
   <body translate-cloak>
     <!--[if lt IE 10]>
@@ -18,14 +18,10 @@
 
     <div ui-view></div>
 
-    <script src="scripts/vendor-896c793911.js"></script>
+    <script src="scripts/vendor-36b317a4ef.js"></script>
 
-    <script src="scripts/app-33f93ac17d.js"></script>
+    <script src="scripts/app-f3f1b2554b.js"></script>
 
     <script src="/mnoe/config.js"></script>
-
-    <!-- Intercom -->
-    <div ng-controller="IndexController" ng-bind-html="intercom"></div>
-    <!-- End Intercom -->
   </body>
 </html>
