@@ -10,6 +10,6 @@
   version "2.0.0-dev"
   resolved "git+https://git@github.com/maestrano/mno-enterprise-angular.git#5313abb888bf609ecf10dae938eee26693290653"
 
-"mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
+"mnoe-admin-panel@git+https://git@github.com/hedudelgado/mnoe-admin-panel.git#MNOE-146-display-teams":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#ef1c3dee772bdaae076db14428e48b1e1a28a233"
+  resolved "git+https://git@github.com/hedudelgado/mnoe-admin-panel.git#399ce58367dcd37a907289b3a8793bbefd8c7908"
